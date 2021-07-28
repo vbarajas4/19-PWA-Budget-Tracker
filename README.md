@@ -42,11 +42,12 @@ THEN that will be shown on the page, and added to their transaction history when
 - service-worker
 
 ## Screenshots of Application
-Saving data while offline
+
+Showing Consule of what the app is doing while going offline and back online
 
 <img width="1590" alt="Screen Shot 2021-07-26 at 7 08 52 PM" src="https://user-images.githubusercontent.com/79430431/127264222-a501a886-b9aa-4c70-bc4c-19be1ce99316.png">
 
-Showing Consule of what the app is doing while going offline and back online
+Saving data while offline
 
 <img width="1745" alt="Screen Shot 2021-07-26 at 7 11 57 PM" src="https://user-images.githubusercontent.com/79430431/127264230-e97b19db-ef1b-4d72-87e0-9c879f960c35.png">
 
